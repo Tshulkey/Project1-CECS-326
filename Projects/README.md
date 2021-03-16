@@ -1,6 +1,6 @@
 # Project 1: Multithreaded Programming and Synchronization
 
-Learning how to use multithreads, mutex, and barriers. Find the difference between with synchronization and without.
+Using pthreads. Learning how to use multithreads, mutex, and barriers. Find the difference between with synchronization and without.
 
 ---
 
